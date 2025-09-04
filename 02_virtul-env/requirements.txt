@@ -1,0 +1,7 @@
+flask
+requests
+
+# you can also specify versions like this:
+# flask==2.0.1
+# requests>=2.25.1
+
