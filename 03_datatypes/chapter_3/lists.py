@@ -194,6 +194,7 @@ sugar_level = [1, 2, 3, 4, 5]
 print(f"Maximum Sugar Level: {max(sugar_level)}")
 print(f"Minimum Sugar Level: {min(sugar_level)}")
 
+
 # ------------------------------------
 # Summary
 # ------------------------------------
