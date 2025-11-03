@@ -23,4 +23,4 @@ comment = Comment(
     ],
 )
 
-print(comment.model_dump()) #? For Better Printing (it gives output in **json** format)
+print(comment.model_dump()) #? For Better Printing (it gives output in **python dictionary** format)
